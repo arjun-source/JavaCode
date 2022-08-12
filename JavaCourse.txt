@@ -7,3 +7,6 @@ data abstraction
 encapsulation
 Collection Frameworks
 Arraylist
+Hashset
+hashmap
+lambda expressions
