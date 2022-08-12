@@ -8,4 +8,13 @@ encapsulation
 Collection Frameworks
 Arraylist
 
+Hashset
+hashmap
+lambda expressions
+
+
+done my changes
+
+
 Final Copy
+
